@@ -6,4 +6,6 @@ As part of "Embedded software", the lab work was to :
 
 "Parallel Multi-core (5-cores) implementation of Edge detection filters (Image processing) on Altera Nios II FPGA using bare metal and uCOS-II RTOS. Throughput requirement of 320 images per second (32x32 pixels). Involved Design space exploration of different actors and mapping different tasks on multiple processors considering real-time (deadline) requirements and utilizing parallel programming constructs." (lab descriptions as ["EmbeddedSoftware_Lab1.png"](EmbeddedSoftware_Lab1.png), ["EmbeddedSoftware_Lab2.png"](EmbeddedSoftware_Lab2.png)). Here as well we were given hardware IP templates/implementations for both single-core and multi-core.
 
-The complete lab report is given as ["ESLabReport.pdf"](ESLabReport.pdf).
+The complete lab report is given as ["ESLabReport.pdf"](ESLabReport.pdf). The below image representing the resulting schedule from 
+the report is shown below 
+![alt text](https://github.com/sebinsphilip/Embedded_software_lab/blob/main/schedule.png?raw=true)
